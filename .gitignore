@@ -1,0 +1,19 @@
+# Secrets: database URL and Twelve Data API key
+.env
+.env.*
+!.env.example
+
+# Python
+env/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Runtime output
+*.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
